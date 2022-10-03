@@ -5,7 +5,7 @@
 
 
 <h1>👤about Project </h1>
-<p>Hello his friends Dear ones Project Today we are Check Internet web</p>
+<p>Hello his friends Dear ones Project Today we are speeding-up</p>
 <hr>
 <!-- view -->
 <h1>💻Language To Code</h1>
