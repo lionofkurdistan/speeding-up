@@ -10,8 +10,8 @@
 <!-- view -->
 <h1>💻Language To Code</h1>
 <h2>py</h2>
-<h2></h2>
-<h2></h2>
+
+
 
 <hr>
 <h1>💖Thank you</h1>
